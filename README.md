@@ -24,3 +24,4 @@ WinWin을 통해 관심 있는 분야의 정보를 얻거나, 1:1 소통을 통�
 - 멘토 프로필 등록
 - 관심 멘토 등록 및 신청하기
 
+#### 마이페이지 멘토:멘티 - <a href="https://github.com/cheese0312/winwin/wiki/%EB%A7%88%EC%9D%B4%ED%8E%98%EC%9D%B4%EC%A7%80-%E2%80%90-%EB%A9%98%ED%86%A0:%EB%A9%98%ED%8B%B0">상세보기</a>
