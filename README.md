@@ -17,6 +17,8 @@ WinWin을 통해 관심 있는 분야의 정보를 얻거나, 1:1 소통을 통�
 - FrameWork : Ajax, MyBatis, Spring Boot, thymeleaf
 - Devops: GitHub
 - API : SMS API
+- JAVA : 11
+- JDK : 11
 
 ## ✨주요기능
 #### 멘토:멘티 - <a href="https://github.com/cheese0312/winwin/wiki/%EB%A9%98%ED%86%A0:%EB%A9%98%ED%8B%B0-%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5">상세보기</a>
